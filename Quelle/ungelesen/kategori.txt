@@ -1,0 +1,62 @@
+
+i - Deep Learning with Python
+--> Neural Network
+--> Keras
+--> Theano
+--> Machine Learning
+
+h - Python Deep Learning
+--> Un/supervised learning
+--> Pytorch
+--> Neural Network
+--> keras
+--> Convolutional layers
+--> Reinforcement Learning
+
+g - PyTorch Recipes
+--> Pytorch
+
+
+f - Deep Learning with PyTorch
+--> PyTorch
+--> Machine Learning
+
+
+e - Natural Language Processing with PyTorch
+--> PyTorch
+
+d - Python Data Analytics
+--> deep learning
+--> machine learning
+--> Neural network
+--> GPU
+
+c - An Introduction to Machine Learning
+--> Un/supervised learning
+--> Neural network
+--> Convolution
+--> Reinforcement Learning
+
+b - Learn Keras for Deep Neural Networks
+--> Keras
+--> deep learning
+
+a - Deep Learning with Applications Using Python
+--> deep learning
+--> keras
+
+
+978 - Machine Learning: Hands-On for Developers and Technical Professionals
+--> machine learning
+--> neural network
+--> Clustering
+--> Batch Process
+
+129 - Digital Image Processing
+--> neural network, deep neural network
+--> convolution
+
+774 - Lifelong Machine Learning
+--> transfer learning
+-->
+-->

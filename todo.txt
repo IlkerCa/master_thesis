@@ -1,0 +1,17 @@
+- Voter
+- Grafik für NN
+- Literaturrecherche
+- direktes zitieren anschauen und korrigieren
+- Datum für titelblatt
+- Grafiken aus dem buch Nutzpflanzen erstellen
+- dataset plots erstellen und anpassen
+- Tomaten Quellen!
+- Quelle von Tomate in bibtex hinzufügen
+- Plots erstellen
+Kapitel, die noch gemacht werden muss:
+- Einleitung
+- Grundlagen
+- Maschinelles Lernen
+- Implementierung
+- Evaluation
+- Schluss
